@@ -1,0 +1,57 @@
+Program 0xBD
+Party DEFAULT
+MapVisibility 0x00000085 0x20000000
+BarrierFlag 0x0 0x20000000
+BattleLevel 25
+Unk1d 5
+If Entrance 5Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a5"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 6Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a6"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 1Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a1"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 7Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a7"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 2Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a2"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 8Mission 0x170 "HE_COL_1_8"
+	Camera 2
+	Spawn "b_a8"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 3Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a3"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 9Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a9"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 4Mission 0x123 "HE_COLOSSEUM"
+	Spawn "b_a4"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 10Mission 0x187 "HE_COL_1_10"
+	Spawn "b_a0"
+	Spawn "b_z1"
+
+

@@ -1,0 +1,6 @@
+Program 0x02
+MapScript 6
+Unk1d 5
+Spawn "b_01"
+Spawn "b_11"
+

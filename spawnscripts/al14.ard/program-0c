@@ -1,0 +1,7 @@
+Program 0x0C
+AllocEnemy 2464153
+Mission 0x2C "AL14_MS_M"
+Unk1d 4
+Spawn "b_63"
+Spawn "b_93"
+

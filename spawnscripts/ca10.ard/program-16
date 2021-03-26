@@ -1,0 +1,16 @@
+Program 0x16
+Unk06 0
+Party W_FRIEND
+StatusFlag3
+AreaSettings 17 -1
+	SetProgressFlag 0x4034
+	SetPartyMenu 0
+
+AreaSettings 7 -1
+	SetProgressFlag 0x403D
+	SetJump Type 1 World CA Area 5 Entrance 0 LocalSet 0 FadeType 16385
+	SetPartyMenu 0
+
+Mission 0xDE "CA10_MEDAL"
+Spawn "b_70"
+

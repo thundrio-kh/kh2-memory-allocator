@@ -1,0 +1,7 @@
+Program 0x0B
+MapScript 7
+Spawn "b_10"
+Spawn "b_11"
+Unk1f "b_70"
+Spawn "b_21"
+

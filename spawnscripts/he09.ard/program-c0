@@ -1,0 +1,60 @@
+Program 0xC0
+Party DEFAULT
+MapVisibility 0x000000a1 0x20000000
+BarrierFlag 0x0 0x20000000
+BattleLevel 55
+Spawn "b_y3"
+If Entrance 5Mission 0x168 "HE_COL_4_5"
+	Spawn "b_d5"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 6Mission 0x169 "HE_COL_4_6"
+	Spawn "b_d6"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 1Mission 0x164 "HE_COL_4_1"
+	Spawn "b_d1"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 7Mission 0x16A "HE_COL_4_7"
+	Spawn "b_d7"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 2Mission 0x165 "HE_COL_4_2"
+	Spawn "b_d2"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 8Mission 0x16B "HE_COL_4_8"
+	Unk1d 4
+	Camera 2
+	Spawn "b_d8"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 3Mission 0x166 "HE_COL_4_3"
+	Spawn "b_d3"
+	Spawn "b_z3"
+	Spawn "b_z0"
+
+If Entrance 9Mission 0x16C "HE_COL_4_9"
+	Spawn "b_d9"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 4Mission 0x167 "HE_COL_4_4"
+	Spawn "b_d4"
+	Spawn "b_y1"
+	Spawn "b_y0"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 10Mission 0x16D "HE_COL_4_10"
+	Spawn "b_d0"
+	Spawn "b_z1"
+
+

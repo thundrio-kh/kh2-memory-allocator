@@ -1,0 +1,7 @@
+Program 0x6A
+AllocEnemy 3145728
+Party W_FRIEND
+Mission 0xE2 "AL14_MS202"
+Spawn "b_70"
+Spawn "b_98"
+

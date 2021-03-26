@@ -1,0 +1,5 @@
+Program 0x37
+Party DEFAULT
+Mission 0x66 "WI05_MS102D"
+Spawn "b_40"
+

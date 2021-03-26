@@ -1,0 +1,6 @@
+Program 0x99
+Progress 0x8d0
+Party DEFAULT
+Mission 0xC1 "TT30_MS803"
+Spawn "b_40"
+

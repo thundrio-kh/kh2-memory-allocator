@@ -1,0 +1,6 @@
+Program 0x0A
+StatusFlag3
+Spawn "b_80"
+CasualSpawn 30 "b_30"
+Spawn "b_20"
+

@@ -1,0 +1,5 @@
+Program 0x03
+Spawn "b_02"
+RandomSpawn "b_84" "b_85"
+Spawn "z_70"
+

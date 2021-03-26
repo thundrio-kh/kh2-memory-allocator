@@ -1,0 +1,32 @@
+assets:
+- method: binarc
+  name: ard/tt01.ard
+  source:
+  - method: areadatascript
+    name: evt.script
+    source:
+    - name: spawnscripts/tt01.ard/program-102
+    - name: spawnscripts/tt01.ard/program-113
+    - name: spawnscripts/tt01.ard/program-114
+    - name: spawnscripts/tt01.ard/program-115
+    - name: spawnscripts/tt01.ard/program-122
+    - name: spawnscripts/tt01.ard/program-133
+    - name: spawnscripts/tt01.ard/program-134
+    - name: spawnscripts/tt01.ard/program-135
+    - name: spawnscripts/tt01.ard/program-34
+    - name: spawnscripts/tt01.ard/program-35
+    - name: spawnscripts/tt01.ard/program-36
+    - name: spawnscripts/tt01.ard/program-37
+    - name: spawnscripts/tt01.ard/program-38
+    - name: spawnscripts/tt01.ard/program-39
+    - name: spawnscripts/tt01.ard/program-3b
+    - name: spawnscripts/tt01.ard/program-3c
+    - name: spawnscripts/tt01.ard/program-3d
+    - name: spawnscripts/tt01.ard/program-e5
+    - name: spawnscripts/tt01.ard/program-e6
+    - name: spawnscripts/tt01.ard/program-e7
+    - name: spawnscripts/tt01.ard/program-f2
+    - name: spawnscripts/tt01.ard/program-f3
+    - name: spawnscripts/tt01.ard/program-f4
+    type: AreaDataScript
+title: KH2 Memory Allocator V0.1

@@ -1,0 +1,289 @@
+Program 0xC4
+Party DEFAULT
+MapVisibility 0x00000042 0x08000000
+BarrierFlag 0x0 0x8000000
+BattleLevel 99
+If Entrance 49Mission 0x189 "HE_COL_8_49"
+	Spawn "b_l9"
+	Spawn "b_y3"
+	Spawn "b_z5"
+
+If Entrance 38Mission 0x17E "HE_COLOSSEUM_8_CEL"
+	Spawn "b_k8"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 27Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j7"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 16Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i6"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 5Mission 0x184 "HE_COL_8_5"
+	Spawn "b_h5"
+	Spawn "b_z1"
+
+If Entrance 44Mission 0x18B "HE_COLOSSEUM_8_ONLY"
+	Spawn "b_l4"
+	Spawn "b_y3"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 33Mission 0x17E "HE_COLOSSEUM_8_CEL"
+	Spawn "b_k3"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 22Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j2"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 11Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i1"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 50Mission 0x18D "HE_COL_8_50"
+	Spawn "b_l0"
+	Spawn "b_y3"
+	Spawn "b_z5"
+
+If Entrance 39Mission 0x17E "HE_COLOSSEUM_8_CEL"
+	Spawn "b_k9"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 28Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j8"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 17Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i7"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 6Mission 0x185 "HE_COL_8_6"
+	Spawn "b_h6"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 45Mission 0x182 "HE_COL_8_45"
+	Camera 2
+	Spawn "b_l5"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 34Mission 0x17E "HE_COLOSSEUM_8_CEL"
+	Spawn "b_k4"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 23Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j3"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 12Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i2"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 1Mission 0x17B "HE_COLOSSEUM_8"
+	Spawn "b_h1"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 40Mission 0x188 "HE_COL_8_40"
+	Spawn "b_k0"
+	Spawn "b_z5"
+
+If Entrance 29Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j9"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 18Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i8"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 7Mission 0x17B "HE_COLOSSEUM_8"
+	Spawn "b_h7"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 46Mission 0x18B "HE_COLOSSEUM_8_ONLY"
+	Spawn "b_l6"
+	Spawn "b_y3"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 35Mission 0x183 "HE_COL_8_35"
+	Camera 2
+	Spawn "b_k5"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 24Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j4"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 13Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i3"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 2Mission 0x17B "HE_COLOSSEUM_8"
+	Spawn "b_h2"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 41Mission 0x18B "HE_COLOSSEUM_8_ONLY"
+	Unk1d 4
+	Spawn "b_l1"
+	Spawn "b_y3"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 30Mission 0x18A "HE_COL_8_30"
+	Unk1d 5
+	Spawn "b_j0"
+	Spawn "b_y3"
+	Spawn "b_z1"
+
+If Entrance 19Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i9"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 8Mission 0x17B "HE_COLOSSEUM_8"
+	Spawn "b_h8"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 47Mission 0x18B "HE_COLOSSEUM_8_ONLY"
+	Spawn "b_l7"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 36Mission 0x17E "HE_COLOSSEUM_8_CEL"
+	Spawn "b_k6"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 25Mission 0x18E "HE_COL_8_25"
+	Unk1d 5
+	Spawn "b_j5"
+	Spawn "b_z1"
+
+If Entrance 14Mission 0x17D "HE_COLOSSEUM_8_TIT"
+	Unk1d 6
+	Spawn "b_i4"
+	Spawn "b_y0"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 3Mission 0x17B "HE_COLOSSEUM_8"
+	Spawn "b_h3"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 42Mission 0x18B "HE_COLOSSEUM_8_ONLY"
+	Spawn "b_l2"
+	Spawn "b_y3"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 31Mission 0x194 "HE_COL_8_31"
+	Unk1d 6
+	Spawn "b_k1"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 20Mission 0x180 "HE_COL_8TI_BOSS"
+	Unk1d 6
+	Spawn "b_i0"
+	Spawn "b_y0"
+	Spawn "b_z5"
+
+If Entrance 9Mission 0x17B "HE_COLOSSEUM_8"
+	Spawn "b_h9"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 48Mission 0x18B "HE_COLOSSEUM_8_ONLY"
+	Spawn "b_l8"
+	Spawn "b_y3"
+	Spawn "b_z5"
+
+If Entrance 37Mission 0x17E "HE_COLOSSEUM_8_CEL"
+	Spawn "b_k7"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 26Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j6"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 15Mission 0x180 "HE_COL_8TI_BOSS"
+	Unk1d 6
+	Spawn "b_i5"
+	Spawn "b_y0"
+	Spawn "b_z5"
+
+If Entrance 4Mission 0x17B "HE_COLOSSEUM_8"
+	Spawn "b_h4"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 43Mission 0x18B "HE_COLOSSEUM_8_ONLY"
+	Spawn "b_l3"
+	Spawn "b_y3"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 32Mission 0x17E "HE_COLOSSEUM_8_CEL"
+	Spawn "b_k2"
+	Spawn "b_z5"
+	Spawn "b_z0"
+
+If Entrance 21Mission 0x17C "HE_COLOSSEUM_8_PP"
+	Unk1d 5
+	Spawn "b_j1"
+	Spawn "b_z1"
+	Spawn "b_z0"
+
+If Entrance 10Mission 0x18C "HE_COL_8_10"
+	Spawn "b_h0"
+	Spawn "b_z1"
+
+

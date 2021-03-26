@@ -1,0 +1,8 @@
+Program 0x44
+Party W_FRIEND_FIX
+Mission 0x55 "MU01_MS102"
+Spawn "b_40"
+Spawn "b_4a"
+Spawn "b_4p"
+Spawn "b_4s"
+

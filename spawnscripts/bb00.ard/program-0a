@@ -1,0 +1,4 @@
+Program 0x0A
+Spawn "b_20"
+RandomSpawn "b_80" "b_81"
+

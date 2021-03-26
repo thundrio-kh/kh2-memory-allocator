@@ -1,0 +1,9 @@
+Program 0x49
+Party W_FRIEND_FIX
+Layout "tr_cy.2ld"
+Mission 0x32 "TR02_MS102A"
+Spawn "b_9d"
+Spawn "b_92"
+Spawn "b_93"
+Spawn "b_99"
+

@@ -1,0 +1,5 @@
+Program 0x24
+Spawn "b_21"
+RandomSpawn "b_80" "b_81" "b_82" "b_83" "b_84" "b_85"
+CasualSpawn 50 "b_30"
+

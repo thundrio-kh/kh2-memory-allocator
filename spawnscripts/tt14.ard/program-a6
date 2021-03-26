@@ -1,0 +1,8 @@
+Program 0xA6
+Progress 0x8d1
+AllocEnemy 2097152
+Party DEFAULT
+StatusFlag3
+Mission 0xC3 "TT14_MS001"
+Spawn "b_99"
+

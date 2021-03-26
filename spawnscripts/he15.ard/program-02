@@ -1,0 +1,9 @@
+Program 0x02
+AllocEnemy 3145728
+AllocEffect 0x100000 0x40000
+MapScript 11
+Unk1d 5
+Spawn "b_01"
+Spawn "b_12"
+Spawn "b_11"
+

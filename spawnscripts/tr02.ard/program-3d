@@ -1,0 +1,11 @@
+Program 0x3D
+Party NO_FRIEND
+StatusFlag3
+Layout "file/%s/tr_cy.2ld"
+Mission 0x32 "TR02_MS102A"
+Unk1d 1
+Spawn "b_9d"
+Spawn "b_92"
+Spawn "b_93"
+Spawn "b_99"
+

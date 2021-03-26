@@ -1,0 +1,8 @@
+Program 0x03
+Unk06 20
+StatusFlag3
+MapScript 7
+Spawn "b_01"
+Spawn "b_10"
+Spawn "b_11"
+

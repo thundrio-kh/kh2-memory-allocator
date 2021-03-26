@@ -1,0 +1,7 @@
+Program 0x70
+Progress 0x1836
+Party DEFAULT
+Mission 0x17 "HE06_MS101"
+Unk1d 3
+Spawn "b_40"
+

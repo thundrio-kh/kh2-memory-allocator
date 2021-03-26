@@ -1,0 +1,11 @@
+Program 0x4A
+Party W_FRIEND_FIX
+Layout "tr_cy.2ld"
+MapVisibility 0x00000005 0x00000000
+Mission 0x34 "TR02_MS102_FREE"
+Spawn "b_9a"
+Spawn "b_9b"
+Spawn "b_97"
+Spawn "b_9c"
+Spawn "b_9f"
+

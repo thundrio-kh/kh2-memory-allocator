@@ -1,0 +1,7 @@
+Program 0x40
+Party NO_FRIEND
+Mission 0x61 "DC00_MS101"
+Spawn "b_40"
+Spawn "b_41"
+Spawn "b_94"
+

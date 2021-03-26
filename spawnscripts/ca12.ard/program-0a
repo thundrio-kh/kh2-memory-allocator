@@ -1,0 +1,5 @@
+Program 0x0A
+Spawn "b_10"
+CasualSpawn 40 "b_30"
+Spawn "b_20"
+

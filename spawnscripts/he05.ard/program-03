@@ -1,0 +1,5 @@
+Program 0x03
+MapScript 6
+Spawn "b_01"
+Spawn "b_11"
+

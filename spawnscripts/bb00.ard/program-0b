@@ -1,0 +1,6 @@
+Program 0x0B
+AllocEnemy 2411724
+CasualSpawn 30 "b_30"
+Spawn "b_21"
+RandomSpawn "b_80" "b_81"
+

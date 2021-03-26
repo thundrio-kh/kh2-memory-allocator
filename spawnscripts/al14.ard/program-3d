@@ -1,0 +1,9 @@
+Program 0x3D
+Party W_FRIEND
+Layout "minigame/al_14.bar"
+Mission 0xE2 "AL14_MS202"
+Unk1d 4
+Spawn "b_70"
+Spawn "b_98"
+Spawn "b_97"
+
